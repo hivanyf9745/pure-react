@@ -10,7 +10,7 @@ const App = () => {
     React.createElement(
       'h1',
       { className: 'title', key: 'app-child1' },
-      'React IS rendered'
+      'Now you see React IS rendered'
     ),
     React.createElement(
       Person,
